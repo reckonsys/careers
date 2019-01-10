@@ -44,11 +44,8 @@ The interview process in the order:
 ## Job Perks
 
 1. Competitive Market Salary
-1. Free Food (Snacks + Tea)
 1. Free tickets to conferences related to your profession [PyCon, JSFoo, etc]
 1. Flexible office timings
-1. Work from home options (infrequent / limited no of days)
-1. Random trips to random places
 1. Time for open-source contribution (to things that we use here at Reckonsys)
 1. You can open-source any component that you write (As long as it does not contain business logic / secret sauce)
 
