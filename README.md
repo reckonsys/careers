@@ -52,9 +52,7 @@ The interview process in the order:
 
 ## How to apply?
 
-Email info[at]reckonsys[dot]com with the role that you are applying in the subject and with GitHub, StackOverflow, personal site (or any link that you think might be useful in evaluating you), etc in the body. Resumes are okay - but not really valuable for evaluation.
-
-Once we receive your mail - we will send you the programming challenges. You can take as much time as you want to complete the challenges (But the sooner is better. The timings will be evaluated too).
+[Create a new issue](https://github.com/reckonsys/careers/issues/new) on this repo with the role you want to apply for and your GitHub/StackOverflow/portfolio link. Or send us these details in an email to info[at]reckonsys[dot]com.
 
 
 ## Members
