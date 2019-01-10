@@ -55,9 +55,9 @@ The interview process in the order:
 [Create a new issue](https://github.com/reckonsys/careers/issues/new) on this repo with the role you want to apply for and your GitHub/StackOverflow/portfolio link. Or send us these details in an email to info[at]reckonsys[dot]com.
 
 
-## Members
+## Reckoners
 
-Here is some of the people working with us.
+Here is some of the people working with us (alphabetical order)
 
 * [@dhilipsiva](https://github.com/dhilipsiva) (VP of Engineering)
 
