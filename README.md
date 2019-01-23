@@ -60,6 +60,7 @@ The interview process in the order:
 Here is some of the people working with us (alphabetical order)
 
 * [@dhilipsiva](https://github.com/dhilipsiva) (VP of Engineering)
+* [@jinchuuriki91](https://github.com/jinchuuriki91) (Software Engineer)
 
 
 ## Issues / Questions?
