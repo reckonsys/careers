@@ -64,6 +64,7 @@ Here is some of the people working with us (alphabetical order)
 * [@jinchuuriki91](https://github.com/jinchuuriki91) (Software Engineer)
 * [@praneethreckonsys](https://github.com/praneethreckonsys) (Deep Learning Engineer)
 * [@rmad17](https://github.com/rmad17) (Senior Software Engineer)
+* [@yashwin](https://github.com/yashwin) (Software Engineer)
 
 
 ## Issues / Questions?
