@@ -25,3 +25,14 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/r
 * Good grasp on client-side JavaScript (or CoffeeScript is huge plus)
 * have used frontend frameworks like Ember, Angular, Backbone, React
 * SASS / LESS Experience is huge plus
+
+
+## Docs to be familiar with:
+
+You should have a strong understanding (at the least, the fundamentals / getting started) of the following:
+
+* [Python](https://developers.google.com/edu/python/)
+* [Django](https://docs.djangoproject.com/en/3.0/intro/install/)
+* [GraphQL](https://www.edx.org/course/exploring-graphql-a-query-language-for-apis)
+* [Graphene](https://docs.graphene-python.org/en/latest/quickstart/)
+* [bigga](https://github.com/reckonsys/bigga)
