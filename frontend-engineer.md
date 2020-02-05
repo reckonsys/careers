@@ -21,3 +21,16 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/r
 * TypeScript
 * Advanced CSS skills
 * Can convert PSDs to pragmatic code.
+
+## Docs to be familiar with:
+
+You should have a strong understanding (at the least, the fundamentals / getting started) of the following:
+
+* [React](https://reactjs.org/)
+* [React Router](https://reacttraining.com/react-router/)
+* [GraphQL](https://graphql.org/)
+* [Relay](https://relay.dev/)
+* [EasyPeasy](https://github.com/ctrlplusb/easy-peasy)
+* [MomentJS](https://momentjs.com/)
+* [DraftJS](https://draftjs.org/)
+* Have a basic understanding of how to use a docker-compose script (Just `build` and `up`, really!): Checkout our [bigga](https://github.com/reckonsys/bigga) project.
