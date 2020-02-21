@@ -17,6 +17,7 @@ We are a Software Product Development Firm obsessed with creating uncommon solut
 * Very Proficient in Git & GitHub
 * Have a GitHub & StackOverflow profile
 * Proficient in writing test-first code (a.k.a Writing testable code)
+* You have to stick to the timeline of the sprint
 * Any other tech-skill that you have that are not in job requirements (be sure to mention in the mail)
 * The number of years may not matter if you show promising skills
 
