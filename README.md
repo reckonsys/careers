@@ -61,6 +61,7 @@ The interview process in the order:
 Here is some of the people working with us (alphabetical order)
 
 * [@dhilipsiva](https://github.com/dhilipsiva) (VP of Engineering)
+* [@dheeraj-me](https://github.com/dheeraj-me) (Backend Developer)
 * [@gururaj26](https://github.com/gururaj26) (Frontend Developer & UX Designer)
 * [@rmad17](https://github.com/rmad17) (Senior Software Engineer)
 
