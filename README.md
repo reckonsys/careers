@@ -25,6 +25,7 @@ We are a Software Product Development Firm obsessed with creating uncommon solut
 ## Open Positions
 
 * [Pythonista](https://github.com/reckonsys/careers/blob/master/pythonista.md)
+* [Gopher](https://github.com/reckonsys/careers/blob/master/gopher.md))
 * [Frontend Engineer](https://github.com/reckonsys/careers/blob/master/frontend-engineer.md)
 * [Fullstack Engineer](https://github.com/reckonsys/careers/blob/master/fullstack-engineer.md)
 
