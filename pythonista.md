@@ -25,10 +25,12 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/r
 
 
 ## Nice to have (Optional - but, these are huge plus)
+* Go Lang / Elixir
 * Know how to deploy backend using our [bigga](https://github.com/reckonsys/bigga) project. [This is just a docker-compose file]
 * Good grasp on client-side JavaScript (or CoffeeScript/typescript)
 * have used frontend frameworks like Ember, Angular, Backbone, React
 * SASS / LESS Experience is huge plus
+
 
 
 ## Tech Stack
