@@ -62,6 +62,7 @@ Here is some of the people working with us (alphabetical order)
 
 * [@dhilipsiva](https://github.com/dhilipsiva) (VP of Engineering)
 * [@gururaj26](https://github.com/gururaj26) (Frontend Developer & UX Designer)
+* [@PraneethKarnena](https://github.com/PraneethKarnena) (Software Engineer)
 * [@rmad17](https://github.com/rmad17) (Senior Software Engineer)
 
 
