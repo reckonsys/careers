@@ -12,7 +12,8 @@ Using `Terminal in react` package, implement a `search <repo name>` command that
 
 Sample output:
 
-```bash > search bootstrap
+```sh
+> search bootstrap
 bootstrap: https://github.com/twbs/bootstrap
 bootstrap: https://github.com/angular-ui/bootstrap
 bootstrap-datepicker: https://github.com/uxsolutions/bootstrap-datepicker
