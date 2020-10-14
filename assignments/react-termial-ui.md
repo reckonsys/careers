@@ -25,3 +25,7 @@ bootstrap-datetimepicker: https://github.com/Eonasdan/bootstrap-datetimepicker
 bootstrap-select: https://github.com/snapappointments/bootstrap-select
 bootstrap-material-design: https://github.com/mdbootstrap/bootstrap-material-design
 ```
+
+### Important
+
+Please be sure to push the finished assignment on a `private` GitHub repo and add `rs-ds` and `svisanagiri` as collaborators of your project once completed.
