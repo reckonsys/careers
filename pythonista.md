@@ -41,7 +41,6 @@ You should have a strong understanding (at the least, the fundamentals / getting
 * [Django](https://docs.djangoproject.com/en/3.0/intro/install/)
 * [GraphQL](https://www.edx.org/course/exploring-graphql-a-query-language-for-apis)
 * [Graphene](https://docs.graphene-python.org/en/latest/quickstart/)
-* [bigga](https://github.com/reckonsys/bigga)
 
 ## Assignment
 
