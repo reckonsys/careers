@@ -40,7 +40,7 @@ You should have a strong understanding (at the least, the fundamentals / getting
 * [Python](https://developers.google.com/edu/python/)
 * [Django](https://docs.djangoproject.com/en/3.0/intro/install/)
 * [GraphQL](https://www.edx.org/course/exploring-graphql-a-query-language-for-apis)
-* [Graphene](https://docs.graphene-python.org/en/latest/quickstart/)
+* [Graphene](https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/)
 
 ## Assignment
 
@@ -49,6 +49,6 @@ Using the tech stack above (This is a must), build a simple blog API service. It
 1. Implement a `createPost()` mutation which will create a `Post` (a blogpost object) with attributes {`title`, `description`, `publish_date`, `author` (just a name as TextField)}
 1. Implement a `updatePost($id)` mutation which will update a `Post` attributes by `$id`
 1. Implement a `createComment()` mutation which will create a `Comment` object with attributes {`post` (the blogpost object), `text`, `author` (just the name as a TextField)}
-1. Implement a `deleteComment($id)` mutation to delete the given `Comment` by its ID. 
+1. Implement a `deleteComment($id)` mutation to delete the given `Comment` by its ID.
 1. Implement a `posts()` query to list all the posts
 1. Implement a `post($id)` query to get details of a post and all its comments12
