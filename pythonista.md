@@ -52,3 +52,5 @@ Using the tech stack above (This is a must), build a simple blog API service. It
 1. Implement a `deleteComment($id)` mutation to delete the given `Comment` by its ID.
 1. Implement a `posts()` query to list all the posts
 1. Implement a `post($id)` query to get details of a post and all its comments12
+
+Please push the assignment to a private github repo and add @dhilipsiva, @rs-ds, @svisanagiri, @subhoreck0n & @rmad17 as collaborators to your private repo.
