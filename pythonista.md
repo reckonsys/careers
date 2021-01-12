@@ -53,4 +53,4 @@ Using the tech stack above (This is a must), build a simple blog API service. It
 1. Implement a `posts()` query to list all the posts
 1. Implement a `post($id)` query to get details of a post and all its comments12
 
-Please push the assignment to a private github repo and add [@dhilipsiva](/dhilipsiva), [@rs-ds](/rs-ds), [@svisanagiri](/svisanagiri), [@subhoreck0n](/subhoreck0n) & [@rmad17](/rmad17) as collaborators to your private repo.
+Please push the assignment to a private github repo and add [@dhilipsiva](https://github.com/dhilipsiva), [@rs-ds](https://github.com/rs-ds), [@svisanagiri](https://github.com/svisanagiri), [@subhoreck0n](https://github.com/subhoreck0n) & [@rmad17](https://github.com/rmad17) as collaborators to your private repo.
