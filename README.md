@@ -13,7 +13,7 @@ We are a Software Product Development Firm obsessed with creating uncommon solut
 The interview process in the order:
 
 1. Online coding challenge (If your GitHub/Bitbucket/StackOverflow profile is impressive or if have an impressive portfolio - we will not ask you to take these challenges. You can skip this, as you have already proven yourself, and get to next step)
-2. Offline assignment (Again, if you have an impressive profice, you can skip this too)
+2. Offline assignment (Again, if you have an impressive profile, you can skip this too)
 3. Tech Interview
 4. HR interview
 
@@ -29,7 +29,7 @@ The interview process in the order:
 * You have to stick to the timeline of the sprint
 * Any other tech-skill that you have that are not in job requirements (be sure to mention in the mail)
 * The number of years may not matter if you show promising skills
-* Doing a freelancing / contract work for any other company / person when you are working at Reckonsys is against our policies and will result in immediete termination.
+* Doing a freelancing / contract work for any other company / person when you are working at Reckonsys is against our policies and will result in immediate termination.
 
 
 ## Open Positions
