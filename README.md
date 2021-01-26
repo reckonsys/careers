@@ -8,6 +8,15 @@ Want to work with some amazing Python & JavaScript guys? We are Hiring!
 
 We are a Software Product Development Firm obsessed with creating uncommon solutions for common problems by making use of the right technologies and best practices. We work with Startup founders to build their MVP’s and with existing Enterprises to help solve interesting problems.
 
+## The Interview Process
+
+The interview process in the order:
+
+1. Online coding challenge (If your GitHub/Bitbucket/StackOverflow profile is impressive or if have an impressive portfolio - we will not ask you to take these challenges. You can skip this, as you have already proven yourself, and get to next step)
+2. Offline assignment (Again, if you have an impressive profice, you can skip this too)
+3. Tech Interview
+4. HR interview
+
 ## Common Requirements & Responsibilities
 
 * You are responsible for growing your team
@@ -20,12 +29,12 @@ We are a Software Product Development Firm obsessed with creating uncommon solut
 * You have to stick to the timeline of the sprint
 * Any other tech-skill that you have that are not in job requirements (be sure to mention in the mail)
 * The number of years may not matter if you show promising skills
+* Doing a freelancing / contract work for any other company / person when you are working at Reckonsys is against our policies and will result in immediete termination.
 
 
 ## Open Positions
 
 * [Pythonista](https://github.com/reckonsys/careers/blob/master/pythonista.md)
-* [Gopher](https://github.com/reckonsys/careers/blob/master/gopher.md)
 * [Frontend Engineer](https://github.com/reckonsys/careers/blob/master/frontend-engineer.md)
 * [Fullstack Engineer](https://github.com/reckonsys/careers/blob/master/fullstack-engineer.md)
 
@@ -33,13 +42,6 @@ We are a Software Product Development Firm obsessed with creating uncommon solut
 ## Internships
 
 Write to us @ info[at]reckonsys[dot]com
-
-## The Interview Process
-
-The interview process in the order:
-
-1. A programming challenge (If your GitHub/Bitbucket/StackOverflow profile is impressive or if have an impressive portfolio - we will not ask you to take these challenges. You can skip this, as you have already proven yourself, and get to next step)
-1. Phone/Skype/Hangouts interview (personal + past experiences + little bit of tech) with our Tech Team
 
 
 ## Job Perks
@@ -51,10 +53,9 @@ The interview process in the order:
 1. You can open-source any component that you write (As long as it does not contain business logic / secret sauce)
 
 
-## How to apply?
+## How to apply
 
-[Create a new issue](https://github.com/reckonsys/careers/issues/new) on this repo with the role you want to apply for and your GitHub/StackOverflow/portfolio link. Or send us these details in an email to info[at]reckonsys[dot]com.
-
+Email your resume and relevant information to anu@reckonsys.com & dhilip@reckonsys.com
 
 ## Reckoners
 
@@ -70,3 +71,8 @@ Here is some of the people working with us (alphabetical order)
 ## Issues / Questions?
 
 Please [Create a new issue](https://github.com/reckonsys/careers/issues/new) if you found a issue / have a question. PRs are welcomed!
+
+
+## Archived Positions [positions we are no longer applying for]:
+
+* [Gopher](https://github.com/reckonsys/careers/blob/master/gopher.md)

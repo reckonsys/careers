@@ -3,6 +3,16 @@
 Make sure you read [Common Requirements & Responsibilities](https://github.com/reckonsys/careers#common-requirements--responsibilities) before you proceed
 
 
+## How to apply
+
+Refer here: https://github.com/reckonsys/careers#how-to-apply
+
+
+## Salary Range
+
+* 5 - 16 LPA (2 - 7 years of experience) depending on your experience and skillset.
+
+
 ## Responsibilities
 
 * You will have to build GraphQL APIs
@@ -22,13 +32,15 @@ Make sure you read [Common Requirements & Responsibilities](https://github.com/r
 * The number of years may not matter if you show promising skills
 * Exposure to celery
 * Knows how to setup a server
+* Basic understanding of containers
 
 
 ## Nice to have (Optional - but, these are huge plus)
 * Go Lang / Elixir
 * Know how to deploy backend using our [bigga](https://github.com/reckonsys/bigga) project. [This is just a docker-compose file]
-* Good grasp on client-side JavaScript (or CoffeeScript/typescript)
-* have used frontend frameworks like Ember, Angular, Backbone, React
+* Basic grasp of AWS / Google Cloud / Azure
+* Basic grasp on client-side JavaScript (or CoffeeScript/typescript)
+* Have used frontend frameworks like Ember, Angular, Backbone, React
 * SASS / LESS Experience is huge plus
 
 
