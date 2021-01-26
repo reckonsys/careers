@@ -55,7 +55,7 @@ Write to us @ info[at]reckonsys[dot]com
 
 ## How to apply
 
-Email your resume and relevant information to anu@reckonsys.com & dhilip@reckonsys.com
+Email your resume and relevant information to sathish@reckonsys.com, anu@reckonsys.com & dhilip@reckonsys.com
 
 ## Reckoners
 
