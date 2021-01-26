@@ -50,7 +50,7 @@ Write to us @ info[at]reckonsys[dot]com
 1. Free tickets to conferences related to your profession [PyCon, JSFoo, etc]
 1. Flexible office timings
 1. Time for open-source contribution (to things that we use here at Reckonsys)
-1. You can open-source any component that you write (As long as it does not contain business logic / secret sauce)
+1. You can open-source any component that you write through our @reckonsys github organization (As long as it does not contain business logic / secret sauce)
 
 
 ## How to apply
