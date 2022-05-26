@@ -10,7 +10,7 @@ Refer here: https://github.com/reckonsys/careers#how-to-apply
 
 ## Salary Range
 
-* 5 - 16 LPA (2 - 7 years of experience) depending on your experience and skillset.
+* Depending on your experience and skillset.
 
 
 ## Responsibilities
